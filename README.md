@@ -1,1 +1,1 @@
-# puppetr10k
+# CloudPuppet
